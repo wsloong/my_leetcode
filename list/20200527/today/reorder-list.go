@@ -26,6 +26,8 @@ func reorderList(head *ListNode) {
 	slow := head
 	fast := head
 
+	// 这里的判断保证了可以获取第二个链表的前一个节点
+	// 用于截断第一个链表
 	for fast.Next != nil && fast.Next.Next != nil {
 		slow = slow.Next
 		fast = fast.Next.Next
@@ -57,6 +59,8 @@ func reverseList(head *ListNode) *ListNode {
 
 	prev := head
 	head = head.Next
+
+	// 这里开始为原链表的头部(循环到最后将编程尾部)，其next重置为nil
 	prev.Next = nil
 
 	for head != nil {
