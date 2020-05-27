@@ -1,7 +1,7 @@
 // 两数之和
 
 /*
-先定义一个空节点指针 head 作为链表的头，返回结果时候，返回 head.Next
+先定义一个空节点指针 head 作为链表的头(带头链表)，返回结果时候，返回 head.Next
 这样可以统一处理
 
 定义一个变量用于存储进位数值
@@ -23,6 +23,8 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	var carry, x, y int //carry进位值，x:p的值，y:q的值
 
 	for p != nil || q != nil {
+		x , y = 0, 0
+		
 		if p != nil {
 			x = p.Val
 			p = p.Next
