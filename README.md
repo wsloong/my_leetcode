@@ -10,6 +10,7 @@
 * 早上复习昨天的题目，能说出思路，并默写代码
 * 晚上复习昨天和早上的题目，能说出思路，并能默写代码
 * 每刷完一个专题，先阶段复习和总结，然后开始下一个专题
+* 碰到刷过的题，可以再刷一遍，巩固记忆
 
 ## 目标2
 
@@ -36,3 +37,22 @@
 [Grokking the Coding Interview](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)
 [Grokking the System Design](https://www.educative.io/courses/grokking-the-system-design-interview?aff=K7qB)
 看情况购买，也许会继续刷题
+
+
+## 目录
+
+* 20200525
+    * [206.链表的反转](https://leetcode-cn.com/problems/reverse-linked-list/)
+    * [876.链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+* 20200526
+    * [2.两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+    * [138.复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+* 20200527
+    * [143.重排链表](https://leetcode-cn.com/problems/reorder-list/)
+    * [141.环形链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+* 20200528
+    * [142.环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+    * [328.奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+* 20200529
+    * [面试题 02.08.环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/) 同 `142.环形链表II`
+    * [面试题 02.04.分割链表](https://leetcode-cn.com/problems/partition-list-lcci/)
