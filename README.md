@@ -56,3 +56,6 @@
 * 20200529
     * [面试题 02.08.环路检测](https://leetcode-cn.com/problems/linked-list-cycle-lcci/) 同 `142.环形链表II`
     * [面试题 02.04.分割链表](https://leetcode-cn.com/problems/partition-list-lcci/)
+* 20200530
+    * [面试题 02.07.链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
+    * [面试题 02.02.返回倒数第K个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
