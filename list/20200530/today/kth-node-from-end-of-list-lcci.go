@@ -90,3 +90,32 @@ func kthToLast(head *ListNode, k int) int {
 // 	}
 // 	return prev
 // }
+
+// ==============早上的 // 链表相交 ==================
+
+func getIntersectionNode(headA, headB *ListNode) *ListNode {
+	if headA == nil || headB == nil {
+		return nil
+	}
+
+	currentA, currentB := headA, headB
+
+	for currentA != nil || currentB != nil {
+		if currentA == currentB {
+			return currentA
+		}
+
+		if currentA == nil {
+			currentA = headB
+		} else {
+			currentA = currentA.Next
+		}
+
+		if currentB == nil {
+			currentB = headA
+		} else {
+			currentB = currentB.Next
+		}
+	}
+	return nil
+}
