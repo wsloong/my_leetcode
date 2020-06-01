@@ -1,8 +1,5 @@
 // 109. 有序链表转换二叉搜索树
 
-// 没思路啊！！！，就想到找中间节点，然后就没思路了。后期复习多思考下
-// 下面是官方的第一个思路
-
 package main
 
 type ListNode struct {
@@ -21,23 +18,23 @@ func sortedListToBST(head *ListNode) *TreeNode {
 		return nil
 	}
 
-	// 找中间节点
-	middleNode := findMiddleNode(head)
+	// 查找中心节点作为数的根
+	middleNode := getMiddleNode(head)
 
-	// mid成为了BST的根
 	tree := &TreeNode{Val: middleNode.Val}
 
+	// 处理只有一个节点时候
 	if head == middleNode {
 		return tree
 	}
-
 	tree.Left = sortedListToBST(head)
-	tree.Right = sortedListToBST(middleNode.Next)
+	tree.Right = sortedListToBST(middleNode)
 	return tree
 }
 
-func findMiddleNode(head *ListNode) *ListNode {
-	var prevNode *ListNode // 用来从中间断开左边的节点
+func getMiddleNode(head *ListNode) *ListNode {
+	// 用来从中间断开左边的节点  错误1：没写
+	var prevNode *ListNode
 
 	slow := head
 	fast := head
@@ -48,9 +45,9 @@ func findMiddleNode(head *ListNode) *ListNode {
 		fast = fast.Next.Next
 	}
 
-	// Handling the case when slowPtr was equal to head.
 	if prevNode != nil {
 		prevNode.Next = nil
 	}
+
 	return slow
 }

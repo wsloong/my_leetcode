@@ -60,5 +60,8 @@
     * [面试题 02.07.链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/)
     * [面试题 02.02.返回倒数第K个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)
 * 20200531
-    * [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
-    * [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+    * [109.有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+    * [237.删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+* 20200601
+    * [1171.从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+    * [面试题35.复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
