@@ -65,3 +65,6 @@
 * 20200601
     * [1171.从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
     * [面试题35.复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
+* 20200602
+    * [25.K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) `该题难度大，要多复习，多练习`
+    * [82.删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
