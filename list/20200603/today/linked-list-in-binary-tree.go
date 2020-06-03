@@ -25,7 +25,10 @@ type TreeNode struct {
 
 // 一直连续向下的路径,不存在链表跨越树的左右节点
 func isSubPath(head *ListNode, root *TreeNode) bool {
-	if head == nil || root == nil {
+	if head == nil {
+		return true
+	}
+	if  root == nil {
 		return false
 	}
 
