@@ -37,14 +37,12 @@ func sortList(head *ListNode) *ListNode {
 	mid := slow.Next // 中间节点
 	slow.Next = nil
 
-	// 使用递归将左侧和右侧链表切断
+	// 递归
+	// 最后left, right只剩下一个节点了
 	left, right := sortList(head), sortList(mid)
 
-	// 链接左链表和右链表
-	
 	newHead := new(ListNode)
 	current := newHead
-
 	for left != nil && right != nil {
 		if left.Val < right.Val {
 			current.Next = left
@@ -57,7 +55,7 @@ func sortList(head *ListNode) *ListNode {
 	}
 
 	// 如果是原链表有奇数个节点
-	// 分割的左右链表中，会有一个链表多出一个节点
+	// 最后分割的左右链表中，会有一个链表有节点，另一个没有节点
 	if left != nil {
 		current.Next = left
 	}
