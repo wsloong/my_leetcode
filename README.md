@@ -71,3 +71,6 @@
 * 20200603
     * [1367.二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
     * [面试题02.03.删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/)
+* 20200604
+    * [148.排序链表](https://leetcode-cn.com/problems/sort-list/)
+    * [86.分隔链表](https://leetcode-cn.com/problems/partition-list/)

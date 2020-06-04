@@ -29,7 +29,7 @@ func deleteDuplicates(head *ListNode) *ListNode {
 		}
 
 		prev.Next = current.Next
-		// prev = current			// 错误1，prev不需要赋值，判断是使用 prev.Next 来判断的
+		// prev = current			// 错误1，prev不需要赋值，判断是使用 prev.Next 来判断的,不相等时候会后移这个值
 		current = current.Next
 	}
 	return newHead.Next
