@@ -74,3 +74,7 @@
 * 20200604
     * [148.排序链表](https://leetcode-cn.com/problems/sort-list/)
     * [86.分隔链表](https://leetcode-cn.com/problems/partition-list/)
+* 20200605
+    * [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+    * [83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+
