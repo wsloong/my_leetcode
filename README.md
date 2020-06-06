@@ -77,4 +77,7 @@
 * 20200605
     * [234.回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
     * [83.删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+* 20200606
+    * [445.两数相加II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+    * [21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
