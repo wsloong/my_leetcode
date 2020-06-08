@@ -5,7 +5,7 @@
 
 ## 目标 1
 
-* 先刷专项，从`链表->双指针->树->二分查找->广度优先->深度优先->动态规划`开始刷，每个专题刷30道题(按照出现频率由高到低)
+* 先刷专项，从`链表->双指针->树->二分查找->广度优先->深度优先->动态规划`开始刷,每个专题刷2周(按照出现频率由高到低), 第二周周末做总结
 * 每天2道题目，早晚各一道，不求多接法，只求最优解
 * 早上复习昨天的题目，能说出思路，并默写代码
 * 晚上复习昨天和早上的题目，能说出思路，并能默写代码
@@ -66,7 +66,7 @@
     * [1171.从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
     * [面试题35.复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)
 * 20200602
-    * [25.K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) `该题难度大，要多复习，多练习`
+    * [25.K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) `该题有难度，要多复习，多练习`
     * [82.删除排序链表中的重复元素II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)
 * 20200603
     * [1367.二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
@@ -80,4 +80,9 @@
 * 20200606
     * [445.两数相加II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
     * [21.合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+* 20200607
+    * [160.相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+    * [1290.二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+    * [92.反转链表II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+    * [面试题02.05.链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/)
 
