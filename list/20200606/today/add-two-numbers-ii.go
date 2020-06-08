@@ -80,6 +80,7 @@ func reverseList(head *ListNode) *ListNode {
 	return prev
 }
 
+// ========= 方法二 使用栈 ===============
 // 如果不反转链表。可以借用栈这个数据结构
 // go语言没有栈这个结构，这里简单进行构造一个
 

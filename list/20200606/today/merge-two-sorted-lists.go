@@ -88,7 +88,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	var carry, x, y int
 
 	for !s1.isEmpty() || !s2.isEmpty() || carry != 0 {
-		x, y = 0, 0 // 这里重制值
+		x, y = 0, 0 // 这里重置值
 
 		if !s1.isEmpty() {
 			x = s1.pop()

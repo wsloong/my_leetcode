@@ -52,7 +52,7 @@ func sortList(head *ListNode) *ListNode {
 			right = right.Next
 		}
 
-		current = current.Next // 本次错误点1， 不应该
+		current = current.Next // 本次错误点1:没有写
 	}
 
 	if left != nil {
