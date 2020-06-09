@@ -93,4 +93,7 @@
 * 20200608
     * [15.三数之和](https://leetcode-cn.com/problems/3sum/)
     * [763.划分字母区间](https://leetcode-cn.com/problems/partition-labels/)
+* 20200609
+    * [26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+    * [904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 
