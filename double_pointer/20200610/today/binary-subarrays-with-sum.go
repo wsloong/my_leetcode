@@ -19,26 +19,48 @@
 package main
 
 func numSubarraysWithSum(A []int, S int) int {
-	length := len(A)
-	if length < 1 {
-		return 0
-	}
+	iLow, iHight, sumLow, sumHight, result := 0, 0, 0, 0, 0
 
-	var n, sum, current int
-	for i := 0; i < length; i++ {
-		sum += A[i]
-		if sum == S {
-			for j := i + 1; j < length; j++ {
-				sum += A[j]
-				if sum == S {
-					n++
-				}
-			}
-			n++
-			i = current
-			current++
-			sum = 0
+	for i, v := range A {
+		sumLow += v
+		for iLow < i && sumLow > S {
+			sumLow -= A[iLow]
+			iLow++
+		}
+
+		sumHight += v
+		for iHight < i && (sumHight > S || sumHight == S && A[iHight] == 0) {
+			sumHight -= A[iHight]
+			iHight++
+		}
+
+		if sumLow == S {
+			result += iHight - iLow + 1
 		}
 	}
-	return n
+	return result
+}
+
+// ======= 早上的 面试题 17.11. 单词距离 =======
+
+func findClosest(words []string, word1 string, word2 string) int {
+	t1, t2, res := -1, -1, len(words)
+
+	for i := range words {
+		if words[i] == word1 {
+			t1 = i
+		} else if words[i] == word2 {
+			t2 = i
+		}
+
+		if t1 != -1 && t2 != -1 {
+			res = min(res, abs(t1, t2))
+		}
+
+		if res == 1 {
+			return res
+		}
+	}
+
+	return res
 }
