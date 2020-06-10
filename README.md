@@ -96,4 +96,7 @@
 * 20200609
     * [26.删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
     * [904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
+* 20200610
+    * [面试题17.11.单词距离](https://leetcode-cn.com/problems/find-closest-lcci/)
+    * [930.和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)
 
