@@ -16,8 +16,13 @@
 	0 <= S <= A.length
 	A[i] 为 0 或 1
 */
+
+// 没有思路
+// 官方的方法很多关于数学，奈何能看明白，但是写不出来
+// 先抄代码
 package main
 
+// 三指针方法
 func numSubarraysWithSum(A []int, S int) int {
 	iLow, iHight, sumLow, sumHight, result := 0, 0, 0, 0, 0
 
@@ -43,7 +48,7 @@ func numSubarraysWithSum(A []int, S int) int {
 
 // ======= 早上的 面试题 17.11. 单词距离 =======
 
-func findClosest(words []string, word1 string, word2 string) int {
+func findClosest2(words []string, word1 string, word2 string) int {
 	t1, t2, res := -1, -1, len(words)
 
 	for i := range words {
