@@ -28,6 +28,7 @@ func merge(nums1 []int, m int, nums2 []int, n int) {
 
 	for p1 >= 0 && p2 >= 0 {
 		if nums1[p1] < nums2[p2] {
+			// p对应的是最后的元素，将较大的数放到该位置
 			nums1[p] = nums2[p2]
 			p2--
 		} else {
