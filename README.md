@@ -99,7 +99,10 @@
 * 20200610
     * [面试题17.11.单词距离](https://leetcode-cn.com/problems/find-closest-lcci/)
     * [930.和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) `该题数学性较强，多刷`
-* 20200610
+* 20200611
     * [344.反转字符串](https://leetcode-cn.com/problems/reverse-string/)
     * [19.删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+* 20200612
+    * [88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
+    * [面试题22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
