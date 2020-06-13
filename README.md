@@ -105,4 +105,7 @@
 * 20200612
     * [88.合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
     * [面试题22.链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
+* 20200613
+    * [125.验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+    * [面试题10.09.排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci/)
 
