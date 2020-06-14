@@ -98,7 +98,7 @@
     * [904.水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 * 20200610
     * [面试题17.11.单词距离](https://leetcode-cn.com/problems/find-closest-lcci/)
-    * [930.和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) `该题数学性较强，多刷`
+    * [930.和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) `该题数学性较强,多刷`
 * 20200611
     * [344.反转字符串](https://leetcode-cn.com/problems/reverse-string/)
     * [19.删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
@@ -108,4 +108,7 @@
 * 20200613
     * [125.验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
     * [面试题10.09.排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci/)
+* 20200614
+    * [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) `该题难度大,要多刷几遍`
+    * [面试题16.06.最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/)
 
