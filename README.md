@@ -111,4 +111,7 @@
 * 20200614
     * [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) `该题难度大,要多刷几遍`
     * [面试题16.06.最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/)
+* 20200615 `碰到滑动窗口题非常不解，这周从简单到困难开刷`
+    * [面试题59-I.滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
+    * [面试题59-II.队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
 

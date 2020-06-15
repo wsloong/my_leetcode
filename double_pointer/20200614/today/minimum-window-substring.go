@@ -83,7 +83,7 @@ func smallestDifference(a []int, b []int) int {
 	return result
 }
 
-func min(a, b int) {
+func min(a, b int) int {
 	if a < b {
 		return a
 	}
