@@ -25,57 +25,46 @@
 */
 package main
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-	Prev *ListNode
-}
+import "container/list"
 
 type MaxQueue struct {
-	Head          *ListNode
-	maxNode       *ListNode
-	secondMaxNode *ListNode
-	Len           int
-	Tail          *ListNode
+	deque *list.List
+	Queue *list.List
 }
 
 func Constructor() MaxQueue {
-	Head := &ListNode{Val: -1}
 	return MaxQueue{
-		Head:          Head,
-		maxNode:       Head,
-		secondMaxNode: Head,
+		deque: list.New(),
+		Queue: list.New(),
 	}
 }
 
 func (this *MaxQueue) Max_value() int {
-	return this.maxNode.Val
+	if this.deque.Len() == 0 {
+		return -1
+	}
+	result := this.deque.Front().Value.(int)
+	return result
 }
 
 func (this *MaxQueue) Push_back(value int) {
-	currentNode := &ListNode{Val: value}
-	if this.Tail == nil {
-		this.Head.Next = currentNode
-		currentNode.Prev = this.Head
-	} else {
-		this.Tail.Next = currentNode
-		currentNode.Prev = this.Tail
+	for this.deque.Len() != 0 {
+		lastItem := this.deque.Back().Value.(int)
+		if lastItem < value {
+			this.deque.Remove(this.deque.Back())
+		} else {
+			break
+		}
 	}
-
-	this.Tail = currentNode
-	this.Len++
-
-	if value >= this.maxNode.Val {
-		this.secondMaxNode = this.maxNode
-		this.maxNode = currentNode
-	} else if value < this.maxNode.Val && value > this.secondMaxNode.Val {
-		this.secondMaxNode = currentNode
-	}
+	this.deque.PushBack(value)
+	this.Queue.PushBack(value)
 }
 
 func (this *MaxQueue) Pop_front() int {
-	front := this.Head.Next
-	
+	if this.deque.Len() == 0 {
+		return -1
+	}
+
 }
 
 /**
