@@ -27,6 +27,12 @@ package main
 
 import "container/list"
 
+/*
+思路：
+	1,将数据队列Queue交给list去维护，这个队列只是简单的进行push和pop即可
+	2,另外一个需要维护单调双端递减的队列
+
+*/
 type MaxQueue struct {
 	deque *list.List
 	Queue *list.List
@@ -49,9 +55,10 @@ func (this *MaxQueue) Max_value() int {
 
 func (this *MaxQueue) Push_back(value int) {
 	for this.deque.Len() != 0 {
-		lastItem := this.deque.Back().Value.(int)
+		lastItem := this.deque.Back()
+		lastValue := lastItem.Value.(int)
 		if lastItem < value {
-			this.deque.Remove(this.deque.Back())
+			this.deque.Remove(lastItem)
 		} else {
 			break
 		}
@@ -64,7 +71,12 @@ func (this *MaxQueue) Pop_front() int {
 	if this.deque.Len() == 0 {
 		return -1
 	}
-
+	ans := this.Queue.Front().Value.(int)
+	if ans == this.deque.Front().Value.(int) {
+		this.deque.Remove(this.deque.Front())
+	}
+	this.Queue.Remove(this.Queue.Front())
+	return ans
 }
 
 /**

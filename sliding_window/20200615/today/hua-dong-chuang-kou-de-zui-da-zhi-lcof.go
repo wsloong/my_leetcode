@@ -40,6 +40,7 @@ import (
 // 这是因为 list 的声明、节点的操作需要内存和时间
 func maxSlidingWindow(nums []int, k int) []int {
 	var result []int
+
 	length := len(nums)
 	if length == 0 || k < 1 || length < k {
 		return result

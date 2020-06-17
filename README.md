@@ -111,7 +111,33 @@
 * 20200614
     * [76.最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) `该题难度大,要多刷几遍`
     * [面试题16.06.最小差](https://leetcode-cn.com/problems/smallest-difference-lcci/)
-* 20200615 `碰到滑动窗口题非常不解，这周从简单到困难开刷`
+* 20200615
     * [面试题59-I.滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)
     * [面试题59-II.队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
+* 20200616
+    * [3.无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+    * [面试题17.18.最短超串](https://leetcode-cn.com/problems/shortest-supersequence-lcci/)
+
+### 剑指offer
+
+```
+最近刷题感觉:
+    1，从之前看到题没有思路到有思路，很多思路不完整，比如链表的临界点，滑块的收缩等
+    2，无法将思路转换为代码，写出来的代码一塌糊涂，比如用了错误的数据结构，导致复杂度上升；错误的判断导致结果错误等
+    3，思维定式，太局限于题类型分类，而没有总结扩散联想，碰到变形题还是不会
+
+总结:
+    每天2道题目适合初刷，增加眼界，积累一些思路。
+    题目类型难度中上时候，花费太多时间思考，没有时间总结回顾
+
+计划改变:
+    1，每天早上刷1道 剑指offer 的题目；思考最多30分钟，没有思路或者无法将思路转化为代码，就看题解
+    2，先根据题解思路，试着将思路转化为代码
+    3，对比别人代码，优化自己代码，写注释或者标注注意点
+    4，晚上复习一遍该题，第二天早上在复习一遍 
+```
+* 20200617
+    * [面试题03.数组中重复的数字](./coding_interviews/03数组中重复的数字/README.md)
+
+
 
