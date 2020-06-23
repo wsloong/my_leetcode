@@ -35,7 +35,6 @@ func (this *CQueue) DeleteHead() int {
 		this.s1 = []int{}
 		return result
 	}
-
 	return -1
 }
 
