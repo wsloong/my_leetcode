@@ -137,14 +137,20 @@
     4，晚上复习一遍该题，第二天早上在复习一遍 
 ```
 * 20200617
-    * [面试题03.数组中重复的数字](./coding_interviews/03数组中重复的数字/README.md)
+    * [03.数组中重复的数字](./coding_interviews/03数组中重复的数字/README.md)
 * 20200618
-    * [面试题04.二维数组中的查找](./coding_interviews/04二维数组中的查找/README.md)
+    * [04.二维数组中的查找](./coding_interviews/04二维数组中的查找/README.md)
 * 20200619
-    * [面试题05.替换空格](./coding_interviews/05替换空格/README.md)
-* 20200619
-    * [面试题06.从尾到头打印链表](./coding_interviews/06从尾到头打印链表/README.md)
+    * [05.替换空格](./coding_interviews/05替换空格/README.md)
 * 20200620
-    * [面试题07.重建二叉树](./coding_interviews/07重建二叉树/README.md)
+    * [06.从尾到头打印链表](./coding_interviews/06从尾到头打印链表/README.md)
 * 20200621
-    * [面试题09.用两个栈实现队列](./coding_interviews/09用两个栈实现队列/README.md)
+    * [07.重建二叉树](./coding_interviews/07重建二叉树/README.md)
+* 20200622
+    * [09.用两个栈实现队列](./coding_interviews/09用两个栈实现队列/README.md)
+* 20200623
+    * [10-1斐波那契数列](./coding_interviews/10-1斐波那契数列/README.md)
+* 20200624
+    * [10-2青蛙跳台阶问题](./coding_interviews/10-2青蛙跳台阶问题/README.md)
+
+    
