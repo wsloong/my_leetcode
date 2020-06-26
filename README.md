@@ -154,6 +154,8 @@
     * [10-2青蛙跳台阶问题](./coding_interviews/10-2青蛙跳台阶问题/README.md)
 * 20200625
     * [11旋转数组的最小数字](./coding_interviews/11旋转数组的最小数字/README.md)
+* 20200626
+    * [12矩阵中的路径](./coding_interviews/12矩阵中的路径/README.md)
 
     
 
