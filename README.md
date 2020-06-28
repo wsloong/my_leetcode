@@ -156,7 +156,7 @@
     * [11旋转数组的最小数字](./coding_interviews/11旋转数组的最小数字/README.md)
 * 20200626
     * [12矩阵中的路径](./coding_interviews/12矩阵中的路径/README.md)
-
-    
-
-    
+* 20200627
+    * [13机器人的运动范围](./coding_interviews/13机器人的运动范围/README.md)
+* 20200628
+    * [14-1剪绳子](./coding_interviews/14-1剪绳子/README.md)
