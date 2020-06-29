@@ -10,6 +10,7 @@ func numWays(n int) int {
 	return a
 }
 
+// 动态规划
 func numWaysWithDP(n int) int {
 	if n <= 1 {
 		return 1

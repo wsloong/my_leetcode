@@ -10,7 +10,9 @@ func cuttingRope(n int) int {
 		return n - 1
 	}
 
+	// 除数和余数
 	a, b := n/3, n%3
+
 	if b == 0 {
 		return int(math.Pow(3, float64(a)))
 	}

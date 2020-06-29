@@ -160,3 +160,5 @@
     * [13机器人的运动范围](./coding_interviews/13机器人的运动范围/README.md)
 * 20200628
     * [14-1剪绳子](./coding_interviews/14-1剪绳子/README.md)
+* 20200629
+    * [14-2剪绳子](./coding_interviews/14-剪绳子/README.md)
