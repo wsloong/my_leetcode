@@ -162,7 +162,11 @@
     * [14-1剪绳子](./coding_interviews/14-1剪绳子/README.md)
 * 20200629
     * [14-2剪绳子](./coding_interviews/14-2剪绳子/README.md)
-* 20200629
+* 20200630
     * [15二进制中1的个数](./coding_interviews/15二进制中1的个数/README.md)
+* 20200701
+    * [16数值的整数次方](./coding_interviews/16数值的整数次方/README.md)
+
+    
 
     
