@@ -168,3 +168,8 @@
     * [16数值的整数次方](./coding_interviews/16数值的整数次方/README.md)
 * 20200702
     * [17打印从1到最大的n位数](./coding_interviews/17打印从1到最大的n位数/README.md)
+* 20200703
+    * [18删除链表的节点](./coding_interviews/18删除链表的节点/README.md)
+
+
+
