@@ -186,3 +186,7 @@
     * [26树的子结构](./coding_interviews/26树的子结构/README.md)
 * 20200713
     * [27二叉树的镜像](./coding_interviews/27二叉树的镜像/README.md)
+* 20200714
+    * [28对称的二叉树](./coding_interviews/28对称的二叉树/README.md)
+
+    
