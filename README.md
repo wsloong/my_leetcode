@@ -192,3 +192,6 @@
     * [29顺时针打印矩阵](./coding_interviews/29顺时针打印矩阵/README.md)
 * 20200716
     * [30包含min函数的栈](./coding_interviews/30包含min函数的栈/README.md)
+* 20200717
+    * [31栈的压入弹出序列](./coding_interviews/31栈的压入弹出序列/README.md)
+    
