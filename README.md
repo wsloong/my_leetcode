@@ -194,4 +194,7 @@
     * [30包含min函数的栈](./coding_interviews/30包含min函数的栈/README.md)
 * 20200717
     * [31栈的压入弹出序列](./coding_interviews/31栈的压入弹出序列/README.md)
+* 20200718
+    * [32-1从上到下打印二叉树](./coding_interviews/32-1从上到下打印二叉树/README.md)
+    
     
