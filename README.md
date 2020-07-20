@@ -196,5 +196,9 @@
     * [31栈的压入弹出序列](./coding_interviews/31栈的压入弹出序列/README.md)
 * 20200718
     * [32-1从上到下打印二叉树](./coding_interviews/32-1从上到下打印二叉树/README.md)
+* 20200719
+    * [32-2从上到下打印二叉树](./coding_interviews/32-2从上到下打印二叉树/README.md)
+* 20200720
+    * [32-3从上到下打印二叉树](./coding_interviews/32-3从上到下打印二叉树/README.md)
     
     
