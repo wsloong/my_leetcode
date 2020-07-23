@@ -21,7 +21,7 @@ func verifyPostorder(postorder []int) bool {
 			p++
 		}
 
-		// p不断后移，知道等于j，说明p之后的值都是大于根节点的值，符合二叉树
+		// p不断后移，直到等于j，说明p之后的值都是大于根节点的值，符合二叉树
 		// 然后递归判断左子树和右子树是否正确
 		return p == j && recur(i, m-1) && recur(m, j-1)
 	}
