@@ -136,6 +136,7 @@
     3，对比别人代码，优化自己代码，写注释或者标注注意点
     4，晚上复习一遍该题，第二天早上在复习一遍 
 ```
+
 * 20200617
     * [03.数组中重复的数字](./coding_interviews/03数组中重复的数字/README.md)
 * 20200618
@@ -208,6 +209,20 @@
     * [35复杂链表的复制](./coding_interviews/35复杂链表的复制/README.md)
 * 20200724
     * [36二叉搜索树与双向链表](./coding_interviews/36二叉搜索树与双向链表/README.md)
+* 20200725
+    * [37序列化二叉树](./coding_interviews/37序列化二叉树/README.md)
+* 20200726
+    * [38字符串的排列](./coding_interviews/38字符串的排列/README.md)
+* 20200727
+    * [39数组中出现次数超过一半的数字](./coding_interviews/39数组中出现次数超过一半的数字/README.md)
+* 20200728
+    * [40最小的k个数](./coding_interviews/40最小的k个数/README.md)
+
+
+
+    
+
+     
 
      
 
