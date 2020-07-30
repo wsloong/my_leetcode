@@ -217,12 +217,7 @@
     * [39数组中出现次数超过一半的数字](./coding_interviews/39数组中出现次数超过一半的数字/README.md)
 * 20200728
     * [40最小的k个数](./coding_interviews/40最小的k个数/README.md)
-
-
-
-    
-
-     
-
-     
-
+* 20200729
+    * [41数据流中的中位数](./coding_interviews/41数据流中的中位数/README.md)
+* 20200730
+    * [42连续子数组的最大和](./coding_interviews/42连续子数组的最大和/README.md)
