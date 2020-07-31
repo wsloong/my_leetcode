@@ -221,3 +221,7 @@
     * [41数据流中的中位数](./coding_interviews/41数据流中的中位数/README.md)
 * 20200730
     * [42连续子数组的最大和](./coding_interviews/42连续子数组的最大和/README.md)
+* 20200731
+    * [43[1～n]整数中1出现的次数](./coding_interviews/43[1～n]整数中1出现的次数/README.md)
+
+     
