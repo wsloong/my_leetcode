@@ -223,5 +223,9 @@
     * [42连续子数组的最大和](./coding_interviews/42连续子数组的最大和/README.md)
 * 20200731
     * [43[1～n]整数中1出现的次数](./coding_interviews/43[1～n]整数中1出现的次数/README.md)
-
-     
+* 20200801
+    * [44数字序列中某一位的数字](./coding_interviews/44数字序列中某一位的数字/README.md)
+* 20200802
+    * [45把数组排成最小的数](./coding_interviews/45把数组排成最小的数/README.md)
+* 20200803
+    * [46把数字翻译成字符串](./coding_interviews/46把数字翻译成字符串/README.md)
