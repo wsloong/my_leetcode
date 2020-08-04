@@ -229,3 +229,7 @@
     * [45把数组排成最小的数](./coding_interviews/45把数组排成最小的数/README.md)
 * 20200803
     * [46把数字翻译成字符串](./coding_interviews/46把数字翻译成字符串/README.md)
+* 20200804
+    * [47礼物的最大价值](./coding_interviews/47礼物的最大价值/README.md)
+
+    
