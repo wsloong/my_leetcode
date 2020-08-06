@@ -233,6 +233,8 @@
     * [47礼物的最大价值](./coding_interviews/47礼物的最大价值/README.md)
 * 20200805
     * [48最长不含重复字符的子字符串](./coding_interviews/48最长不含重复字符的子字符串/README.md)
+* 20200806
+    * [49丑数](./coding_interviews/49丑数/README.md)
 
 
 
