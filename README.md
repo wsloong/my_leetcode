@@ -235,7 +235,5 @@
     * [48最长不含重复字符的子字符串](./coding_interviews/48最长不含重复字符的子字符串/README.md)
 * 20200806
     * [49丑数](./coding_interviews/49丑数/README.md)
-
-
-
-    
+* 20200807
+    * [50第一个只出现一次的字符](./coding_interviews/50第一个只出现一次的字符/README.md)
