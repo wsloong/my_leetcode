@@ -150,90 +150,98 @@
 * 20200622
     * [09.用两个栈实现队列](./coding_interviews/09用两个栈实现队列/README.md)
 * 20200623
-    * [10-1斐波那契数列](./coding_interviews/10-1斐波那契数列/README.md)
+    * [10-1.斐波那契数列](./coding_interviews/10-1斐波那契数列/README.md)
 * 20200624
-    * [10-2青蛙跳台阶问题](./coding_interviews/10-2青蛙跳台阶问题/README.md)
+    * [10-2.青蛙跳台阶问题](./coding_interviews/10-2青蛙跳台阶问题/README.md)
 * 20200625
-    * [11旋转数组的最小数字](./coding_interviews/11旋转数组的最小数字/README.md)
+    * [11.旋转数组的最小数字](./coding_interviews/11旋转数组的最小数字/README.md)
 * 20200626
-    * [12矩阵中的路径](./coding_interviews/12矩阵中的路径/README.md)
+    * [12.矩阵中的路径](./coding_interviews/12矩阵中的路径/README.md)
 * 20200627
-    * [13机器人的运动范围](./coding_interviews/13机器人的运动范围/README.md)
+    * [13.机器人的运动范围](./coding_interviews/13机器人的运动范围/README.md)
 * 20200628
-    * [14-1剪绳子](./coding_interviews/14-1剪绳子/README.md)
+    * [14-1.剪绳子](./coding_interviews/14-1剪绳子/README.md)
 * 20200629
-    * [14-2剪绳子](./coding_interviews/14-2剪绳子/README.md)
+    * [14-2.剪绳子](./coding_interviews/14-2剪绳子/README.md)
 * 20200630
-    * [15二进制中1的个数](./coding_interviews/15二进制中1的个数/README.md)
+    * [15.二进制中1的个数](./coding_interviews/15二进制中1的个数/README.md)
 * 20200701
-    * [16数值的整数次方](./coding_interviews/16数值的整数次方/README.md)
+    * [16.数值的整数次方](./coding_interviews/16数值的整数次方/README.md)
 * 20200702
-    * [17打印从1到最大的n位数](./coding_interviews/17打印从1到最大的n位数/README.md)
+    * [17.打印从1到最大的n位数](./coding_interviews/17打印从1到最大的n位数/README.md)
 * 20200703
-    * [18删除链表的节点](./coding_interviews/18删除链表的节点/README.md)
+    * [18.删除链表的节点](./coding_interviews/18删除链表的节点/README.md)
 * 20200704
-    * [19正则表达式匹配](./coding_interviews/19正则表达式匹配/README.md)
+    * [19.正则表达式匹配](./coding_interviews/19正则表达式匹配/README.md)
 * 20200705
-    * [20表示数值的字符串](./coding_interviews/20表示数值的字符串/README.md)
+    * [20.表示数值的字符串](./coding_interviews/20表示数值的字符串/README.md)
 * 20200706
-    * [21调整数组顺序使奇数位于偶数前面](./coding_interviews/21调整数组顺序使奇数位于偶数前面/README.md)
+    * [21.调整数组顺序使奇数位于偶数前面](./coding_interviews/21调整数组顺序使奇数位于偶数前面/README.md)
 * 20200707
-    * [22链表中倒数第k个节点](./coding_interviews/22链表中倒数第k个节点/README.md)
+    * [22.链表中倒数第k个节点](./coding_interviews/22链表中倒数第k个节点/README.md)
 * 20200708
-    * [24反转链表](./coding_interviews/24反转链表/README.md)
+    * [24.反转链表](./coding_interviews/24反转链表/README.md)
 * 20200709
-    * [25合并两个排序的链表](./coding_interviews/25合并两个排序的链表/README.md)
+    * [25.合并两个排序的链表](./coding_interviews/25合并两个排序的链表/README.md)
 * 20200710
-    * [26树的子结构](./coding_interviews/26树的子结构/README.md)
+    * [26.树的子结构](./coding_interviews/26树的子结构/README.md)
 * 20200713
-    * [27二叉树的镜像](./coding_interviews/27二叉树的镜像/README.md)
+    * [27.二叉树的镜像](./coding_interviews/27二叉树的镜像/README.md)
 * 20200714
-    * [28对称的二叉树](./coding_interviews/28对称的二叉树/README.md)
+    * [28.对称的二叉树](./coding_interviews/28对称的二叉树/README.md)
 * 20200715
-    * [29顺时针打印矩阵](./coding_interviews/29顺时针打印矩阵/README.md)
+    * [29.顺时针打印矩阵](./coding_interviews/29顺时针打印矩阵/README.md)
 * 20200716
-    * [30包含min函数的栈](./coding_interviews/30包含min函数的栈/README.md)
+    * [30.包含min函数的栈](./coding_interviews/30包含min函数的栈/README.md)
 * 20200717
-    * [31栈的压入弹出序列](./coding_interviews/31栈的压入弹出序列/README.md)
+    * [31.栈的压入弹出序列](./coding_interviews/31栈的压入弹出序列/README.md)
 * 20200718
-    * [32-1从上到下打印二叉树](./coding_interviews/32-1从上到下打印二叉树/README.md)
+    * [32-1.从上到下打印二叉树](./coding_interviews/32-1从上到下打印二叉树/README.md)
 * 20200719
-    * [32-2从上到下打印二叉树](./coding_interviews/32-2从上到下打印二叉树/README.md)
+    * [32-2.从上到下打印二叉树](./coding_interviews/32-2从上到下打印二叉树/README.md)
 * 20200720
-    * [32-3从上到下打印二叉树](./coding_interviews/32-3从上到下打印二叉树/README.md)
+    * [32-3.从上到下打印二叉树](./coding_interviews/32-3从上到下打印二叉树/README.md)
 * 20200721
-    * [33二叉搜索树的后序遍历序列](./coding_interviews/33二叉搜索树的后序遍历序列/README.md)
+    * [33.二叉搜索树的后序遍历序列](./coding_interviews/33二叉搜索树的后序遍历序列/README.md)
 * 20200722
-    * [34二叉树中和为某一值的路径](./coding_interviews/34二叉树中和为某一值的路径/README.md)
+    * [34.二叉树中和为某一值的路径](./coding_interviews/34二叉树中和为某一值的路径/README.md)
 * 20200723
-    * [35复杂链表的复制](./coding_interviews/35复杂链表的复制/README.md)
+    * [35.复杂链表的复制](./coding_interviews/35复杂链表的复制/README.md)
 * 20200724
-    * [36二叉搜索树与双向链表](./coding_interviews/36二叉搜索树与双向链表/README.md)
+    * [36.二叉搜索树与双向链表](./coding_interviews/36二叉搜索树与双向链表/README.md)
 * 20200725
-    * [37序列化二叉树](./coding_interviews/37序列化二叉树/README.md)
+    * [37.序列化二叉树](./coding_interviews/37序列化二叉树/README.md)
 * 20200726
-    * [38字符串的排列](./coding_interviews/38字符串的排列/README.md)
+    * [38.字符串的排列](./coding_interviews/38字符串的排列/README.md)
 * 20200727
-    * [39数组中出现次数超过一半的数字](./coding_interviews/39数组中出现次数超过一半的数字/README.md)
+    * [39.数组中出现次数超过一半的数字](./coding_interviews/39数组中出现次数超过一半的数字/README.md)
 * 20200728
-    * [40最小的k个数](./coding_interviews/40最小的k个数/README.md)
+    * [40.最小的k个数](./coding_interviews/40最小的k个数/README.md)
 * 20200729
-    * [41数据流中的中位数](./coding_interviews/41数据流中的中位数/README.md)
+    * [41.数据流中的中位数](./coding_interviews/41数据流中的中位数/README.md)
 * 20200730
-    * [42连续子数组的最大和](./coding_interviews/42连续子数组的最大和/README.md)
+    * [42.连续子数组的最大和](./coding_interviews/42连续子数组的最大和/README.md)
 * 20200731
-    * [43[1～n]整数中1出现的次数](./coding_interviews/43[1～n]整数中1出现的次数/README.md)
+    * [43.[1～n]整数中1出现的次数](./coding_interviews/43[1～n]整数中1出现的次数/README.md)
 * 20200801
-    * [44数字序列中某一位的数字](./coding_interviews/44数字序列中某一位的数字/README.md)
+    * [44.数字序列中某一位的数字](./coding_interviews/44数字序列中某一位的数字/README.md)
 * 20200802
-    * [45把数组排成最小的数](./coding_interviews/45把数组排成最小的数/README.md)
+    * [45.把数组排成最小的数](./coding_interviews/45把数组排成最小的数/README.md)
 * 20200803
-    * [46把数字翻译成字符串](./coding_interviews/46把数字翻译成字符串/README.md)
+    * [46.把数字翻译成字符串](./coding_interviews/46把数字翻译成字符串/README.md)
 * 20200804
-    * [47礼物的最大价值](./coding_interviews/47礼物的最大价值/README.md)
+    * [47.礼物的最大价值](./coding_interviews/47礼物的最大价值/README.md)
 * 20200805
-    * [48最长不含重复字符的子字符串](./coding_interviews/48最长不含重复字符的子字符串/README.md)
+    * [48.最长不含重复字符的子字符串](./coding_interviews/48最长不含重复字符的子字符串/README.md)
 * 20200806
-    * [49丑数](./coding_interviews/49丑数/README.md)
+    * [49.丑数](./coding_interviews/49丑数/README.md)
 * 20200807
-    * [50第一个只出现一次的字符](./coding_interviews/50第一个只出现一次的字符/README.md)
+    * [50.第一个只出现一次的字符](./coding_interviews/50第一个只出现一次的字符/README.md)
+* 20200808
+    * [51.数组中的逆序对](./coding_interviews/51数组中的逆序对/README.md)
+* 20200809
+    * [52.两个链表的第一个公共节点](./coding_interviews/52两个链表的第一个公共节点/README.md)
+* 202008010
+    * [53-1.在排序数组中查找数字I](./coding_interviews/53-1在排序数组中查找数字/README.md)
+* 202008011
+    * [53-2.[0～n-1]中缺失的数字](./coding_interviews/53-2[0～n-1]中缺失的数字/README.md)
