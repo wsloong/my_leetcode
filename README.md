@@ -245,3 +245,5 @@
     * [53-1.在排序数组中查找数字I](./coding_interviews/53-1在排序数组中查找数字/README.md)
 * 202008011
     * [53-2.[0～n-1]中缺失的数字](./coding_interviews/53-2[0～n-1]中缺失的数字/README.md)
+* 202008012
+    * [54.二叉搜索树的第k大节点](./coding_interviews/54二叉搜索树的第k大节点/README.md)
