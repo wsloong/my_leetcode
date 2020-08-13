@@ -32,7 +32,7 @@ func kthLargest(root *TreeNode, k int) int {
 		dfs(root.Left)
 
 	}
-	dfs(root)
 
+	dfs(root)
 	return result
 }
