@@ -50,5 +50,4 @@ func maxDepthWithQueue(root *TreeNode) int {
 		res++
 	}
 	return res
-
 }
