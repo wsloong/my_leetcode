@@ -251,3 +251,9 @@
     * [55-1.二叉树的深度](./coding_interviews/55-1二叉树的深度/README.md)
 * 202008014
     * [55-2.平衡二叉树](./coding_interviews/55-2平衡二叉树/README.md)
+* 202008015
+    * [56-1.数组中数字出现的次数](./coding_interviews/56-1数组中数字出现的次数/README.md)
+* 202008016
+    * [56-2.数组中数字出现的次数II](./coding_interviews/56-2数组中数字出现的次数/README.md)
+* 202008017
+    * [57.和为s的两个数字](./coding_interviews/57和为s的两个数字/README.md)
