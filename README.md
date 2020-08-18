@@ -257,3 +257,6 @@
     * [56-2.数组中数字出现的次数II](./coding_interviews/56-2数组中数字出现的次数/README.md)
 * 202008017
     * [57.和为s的两个数字](./coding_interviews/57和为s的两个数字/README.md)
+* 202008018
+    * [57-2.和为s的连续正数序列](./coding_interviews/57-2和为s的连续正数序列/README.md)
+    
