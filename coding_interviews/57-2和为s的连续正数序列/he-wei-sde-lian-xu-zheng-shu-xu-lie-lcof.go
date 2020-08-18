@@ -6,6 +6,8 @@ func findContinuousSequence(target int) [][]int {
 
 	var result [][]int
 
+	// 因为至少含有两个数，
+	// 所以最大的边界应该是一半
 	for i <= target/2 {
 		// 值小于target，右边界向右+1
 		if sum < target {
