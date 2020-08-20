@@ -261,5 +261,5 @@
     * [57-2.和为s的连续正数序列](./coding_interviews/57-2和为s的连续正数序列/README.md)
 * 20200819
     * [58-1.翻转单词顺序](./coding_interviews/58-1翻转单词顺序/README.md)
-    
-    
+* 20200820
+    * [58-2.左旋转字符串](./coding_interviews/58-2左旋转字符串/README.md)
