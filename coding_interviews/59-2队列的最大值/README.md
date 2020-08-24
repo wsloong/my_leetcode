@@ -17,8 +17,6 @@
         ["MaxQueue","pop_front","max_value"]
         [[],[],[]]
     输出: [null,-1,-1]
- 
-
 限制：
     1 <= push_back,pop_front,max_value的总操作数 <= 10000
     1 <= value <= 10^5
