@@ -267,3 +267,9 @@
     * [59-1.滑动窗口的最大值](./coding_interviews/59-1滑动窗口的最大值/README.md)
 * 20200822
     * [59-2.队列的最大值](./coding_interviews/59-2队列的最大值/README.md)
+* 20200823
+    * [60.n个骰子的点数](./coding_interviews/60-n个骰子的点数/README.md)
+* 20200824
+    * [61.扑克牌中的顺子](./coding_interviews/61扑克牌中的顺子/README.md)
+* 20200825
+    * [62.圆圈中最后剩下的数字](./coding_interviews/62圆圈中最后剩下的数字/README.md)
