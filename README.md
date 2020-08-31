@@ -279,3 +279,9 @@
     * [64.求1+2+…+n](./coding_interviews/64求1-n连续数和/README.md)
 * 20200828
     * [65.不用加减乘除做加法](./coding_interviews/65不用加减乘除做加法/README.md)
+* 20200829
+    * [66.构建乘积数组](./coding_interviews/66构建乘积数组/README.md)
+* 20200830
+    * [67.把字符串转换成整数](./coding_interviews/67把字符串转换成整数/README.md)
+* 20200831
+    * [68-1.把字符串转换成整数](./coding_interviews/68-1二叉搜索树的最近公共祖先/README.md)
