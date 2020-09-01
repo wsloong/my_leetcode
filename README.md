@@ -284,4 +284,6 @@
 * 20200830
     * [67.把字符串转换成整数](./coding_interviews/67把字符串转换成整数/README.md)
 * 20200831
-    * [68-1.把字符串转换成整数](./coding_interviews/68-1二叉搜索树的最近公共祖先/README.md)
+    * [68-1.二叉搜索树的最近公共祖先](./coding_interviews/68-1二叉搜索树的最近公共祖先/README.md)
+* 20200901
+    * [68-2.二叉树的最近公共祖先](./coding_interviews/68-2二叉树的最近公共祖先/README.md)
