@@ -287,3 +287,7 @@
     * [68-1.二叉搜索树的最近公共祖先](./coding_interviews/68-1二叉搜索树的最近公共祖先/README.md)
 * 20200901
     * [68-2.二叉树的最近公共祖先](./coding_interviews/68-2二叉树的最近公共祖先/README.md)
+
+### LeetBook-初级算法
+
+[初级算法](https://leetcode-cn.com/leetbook/detail/top-interview-questions-easy/)
